@@ -24,3 +24,6 @@ The following files will be created:
 - input.txt: Original file with sample content
 - modified.txt: File with modified content
 - output.txt: Summary of operations performed
+
+##OUTPUT##
+
